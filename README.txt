@@ -1,1 +1,0 @@
-crawling stock price information
